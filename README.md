@@ -1,2 +1,2 @@
 # GUI for Missing Data
-Created this project for a subject, can be expanded to include a preview of fed csv.
+A few options available to clean missing data from a missing CSV file. Can be expanded to include a preview of fed csv.
